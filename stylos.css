@@ -1,0 +1,62 @@
+
+.titulo{
+    
+
+    font-family: 'Montserrat', sans-serif;
+    border: 2px solid red;
+    border-radius: 5px;
+
+    text-align: center;
+}
+body{
+    
+    
+}
+header {
+    padding: 20px 0;
+    background-color: #CCCCCC
+}
+.lista{
+    width: 940px;
+    position: relative;
+    margin: 0 auto;
+}
+ul li{
+display: inline-block;
+margin: 0 10%;
+color: red;
+font-weight: bold;
+padding: 0 auto;
+font-family: 'Montserrat', sans-serif;
+font-size: 1em;
+}
+
+main{
+    width: 940px;
+    height: 350px;
+}
+.portada{
+    width: 25%;
+    border: 2px solid red;
+    border-radius: 8px;
+    position: relative;
+    left: 50px;
+    top: 20px;
+    float: left;
+}
+.descripcion{
+font-size: 30px;
+position:relative;
+left: 150px;
+top: 50px;
+}
+
+footer{
+    background: url(imagenes/piepagina.jpg);
+    width: 100%;
+}
+footer img{
+    position: relative;
+    left: 40px;
+    top: 4px;
+}
